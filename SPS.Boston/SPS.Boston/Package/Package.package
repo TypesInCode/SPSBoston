@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<package dslVersion="1.0.0.0" 
-        Id="20a3f3f5-8839-44c5-ab3a-1623826aa332" 
-        solutionId="20a3f3f5-8839-44c5-ab3a-1623826aa332" 
-        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
-        name="SPS.Boston"
-        sharePointProductVersion="15.0">
-</package>
